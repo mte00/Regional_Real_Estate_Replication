@@ -1,5 +1,10 @@
 README FILE FOR REGIONAL REAL ESTATE ILLIQDUITIY REPLCIATION 
 
+Paper: Real Estate Illiquidity and Returns: A Time-varying Regional Perspective
+by Michael Ellington, Xi Fu, and Yunyi Zhu
+
+https://papers.ssrn.com/sol3/papers.cfm?abstract_id=3396571 
+
 CODE COMES WITHOUT TECHNICAL SUPPORT OF ANY KIND USE AT YOUR OWN RISK
 
 REQUIRES PARALLEL COMPUTING TOOLBOX IN MATLAB.
